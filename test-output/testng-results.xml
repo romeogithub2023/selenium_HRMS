@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Mouse over completed]]>
+    </line>
+    <line>
+      <![CDATA[PIM click completed]]>
+    </line>
+    <line>
+      <![CDATA[New Emp Added]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-23T16:18:26 IST" name="Suite1" finished-at="2024-10-23T16:20:22 IST" duration-ms="115152">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T16:18:26 IST" name="TC001 And TC002" finished-at="2024-10-23T16:20:22 IST" duration-ms="115152">
+      <class name="com.hrms.testscripts.TC_001">
+        <test-method signature="tc_001()[pri:0, instance:com.hrms.testscripts.TC_001@23348b5d]" started-at="2024-10-23T16:18:27 IST" name="tc_001" finished-at="2024-10-23T16:19:13 IST" duration-ms="46961" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+      </class> <!-- com.hrms.testscripts.TC_001 -->
+      <class name="com.hrms.testscripts.TC_002">
+        <test-method signature="tc_002()[pri:0, instance:com.hrms.testscripts.TC_002@609cd4d8]" started-at="2024-10-23T16:19:13 IST" name="tc_002" finished-at="2024-10-23T16:20:22 IST" duration-ms="68120" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Mouse over completed]]>
+            </line>
+            <line>
+              <![CDATA[PIM click completed]]>
+            </line>
+            <line>
+              <![CDATA[New Emp Added]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+      </class> <!-- com.hrms.testscripts.TC_002 -->
+    </test> <!-- TC001 And TC002 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
